@@ -1,2 +1,2 @@
 # Prueba-Tecnica-ReSimple
-ReSimple Test Completed by Diego Ordenes F. 
+ReSimple test completed by Diego Ordenes with React and TailwindCss.
